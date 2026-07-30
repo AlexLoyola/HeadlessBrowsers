@@ -19,6 +19,7 @@ Name  | About  | Supported Languages | License
 |[PhantomJS](http://phantomjs.org/) | [[Unmaintained]](https://groups.google.com/forum/#!topic/phantomjs/9aI5d-LDuNE) PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD 3-Clause |
 |[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD 3-Clause |
 |[Surf](https://github.com/headzoo/surf)|Surf is an open source project that implements a virtual web browser that can be controlled programatically | Go | MIT
+|[Browserless](https://github.com/browserless/browserless) | Self-hostable open-source service that exposes headless Chrome over a WebSocket and HTTP API, letting Puppeteer and Playwright connect to remote browsers, with REST endpoints for scraping, screenshots, and PDFs. Also offered as a hosted API. |JavaScript, Python, others (via Puppeteer & Playwright bindings)| SSPL-1.0 / Commercial |
 
 ## Multi drivers
 
